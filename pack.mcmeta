@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 7,
+    "description": "Їречківка"
+  },
+  "language": {
+    "uk_la": {
+      "name": "Ukrajinśka latynka (Jireček)",
+      "region": "Ukrajina",
+      "bidirectional": false
+    }
+  }
+}
